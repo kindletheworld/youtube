@@ -8,5 +8,3 @@ print(myIntVar)
 #Declaring a string variable
 myString="Welcome to KindleTheWorld"
 print(myString)
-
-print('Test')
